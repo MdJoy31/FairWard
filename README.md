@@ -91,4 +91,6 @@ Please cite the paper when you use this evidence.
 
 The datasets have their own references: eICU (Pollard et al., *Scientific Data*, 2018), MIMIC-III (Johnson et al., *Scientific Data*, 2016), Texas-100X (Jayaraman), SUPPORT (Knaus et al., *Annals of Internal Medicine*, 1995) and CRASH-2 (CRASH-2 Trial Collaborators, *The Lancet*, 2010).
 
-Claude (Anthropic) assisted in assembling this repository's notebook and README from the authors' result files. The paper's own disclosure covers the manuscript.
+## License
+
+Until the paper is accepted, this repository is restricted. Only reviewers and editors assessing the submission may view, download and run its contents, and only for that assessment, as set out in `LICENSE`. After acceptance, the authors will release the repository under the MIT License.
