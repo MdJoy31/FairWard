@@ -83,7 +83,7 @@ Please cite the paper when you use this evidence.
 ```bibtex
 @misc{joy2026fairward,
   title  = {{FairWard}: Federated Synthetic Data Generation for Healthcare},
-  author = {Joy, Md Jannatul Rakib and Vo, Viet and Chua, Caslon},
+  author = {Joy, Md Jannatul Rakib,Nazmus Salehin},
   year   = {2026},
   note   = {Manuscript}
 }
